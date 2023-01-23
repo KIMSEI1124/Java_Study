@@ -1,0 +1,13 @@
+
+g
+java:S1192"LDefine a constant instead of duplicating this literal "\"ì…ë‹ˆë‹¤" 4 times.(—‰µøÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(«²Æ¨ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—‰µøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»½šë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğíûşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³ÕˆÅ
+Y
+java:S1612"CReplace this lambda with method reference 'LambdaStudy::printList'.(±…å…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğæê»ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»êê¡ÿÿÿÿÿ
