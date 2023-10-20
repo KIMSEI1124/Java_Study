@@ -1,0 +1,17 @@
+
+|
+java:S1192J"fDefine a constant instead of duplicating this literal "
+ë©”ë‰´ë¥¼ ë‹¤ì‹œ ì„ íƒí•´ì£¼ì„¸ìš”." 4 times.(ÌàÛ
+q
+java:S1192˜"UDefine a constant instead of duplicating this literal "%-4s   %-5s  %-3s %n" 3 times.(ƒÖ«Åúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô°¡«ûÿÿÿÿ
+\
+java:S12266"AIntroduce a new variable instead of reusing the parameter "data".(ÙÕ±§ıÿÿÿÿ
+\
+java:S1226S"AIntroduce a new variable instead of reusing the parameter "data".(ÙÕ±§ıÿÿÿÿ
+D
+java:S1144Q".Remove this unused private "inputData" method.(–„·
+I
+java:S1144"2Remove this unused private "searchByIndex" method.(ıÙÎ½
+N
+java:S1144¶"2Remove this unused private "deleteByIndex" method.(ªÒÖıÿÿÿÿ

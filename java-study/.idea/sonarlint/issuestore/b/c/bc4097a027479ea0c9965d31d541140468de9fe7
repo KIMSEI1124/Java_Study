@@ -1,0 +1,13 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ý€Íû
+\
+java:S1226/"AIntroduce a new variable instead of reusing the parameter "data".(ÙÕ±§ýÿÿÿÿ
+X	java:S125J"<This block of commented-out lines of code should be removed.(´¿øÿ8œÕô«á0
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(öùèƒ8µÀ‰¬á0
+^	java:S125ª"<This block of commented-out lines of code should be removed.(Èé¾ìøÿÿÿÿ8ø“Œ¬á0
+Y	java:S125Ö"<This block of commented-out lines of code should be removed.(àµÆ8›ÍŒ¬á0
+Y	java:S125ø"<This block of commented-out lines of code should be removed.(›Õ–ý8äŸó«á0
+Y	java:S125"<This block of commented-out lines of code should be removed.(æûõÍ8¾æò«á0
+Y	java:S125‰"<This block of commented-out lines of code should be removed.(â»úÆ8­þò«á0
+^	java:S125š"<This block of commented-out lines of code should be removed.(Ûã®Åøÿÿÿÿ8µÖŽ¬á0
+^	java:S125»"<This block of commented-out lines of code should be removed.(±ÞÍøÿÿÿÿ8ö™Ž¬á0
