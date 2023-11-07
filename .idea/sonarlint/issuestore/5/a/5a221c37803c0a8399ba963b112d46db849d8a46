@@ -1,0 +1,25 @@
+
+_	java:S107"CConstructor has 11 parameters, which is greater than 10 authorized.(‰™Š÷8­´Ë÷¶1
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8ü‚ãö¶1
+G
+java:S1068"*Remove this unused "gender" private field.(ÀÄŒ8ü‚ãö¶1
+I
+java:S1068"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8ü‚ãö¶1
+K
+java:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ8ü‚ãö¶1
+F
+java:S1068")Remove this unused "phone" private field.(À†½´8ü‚ãö¶1
+M
+java:S1068	"+Remove this unused "address" private field.(÷§ùÿÿÿÿ8ü‚ãö¶1
+D
+java:S1068
+"'Remove this unused "job" private field.(‚®­¹8ü‚ãö¶1
+F
+java:S1068")Remove this unused "hobby" private field.(Á¾‹ª8ü‚ãö¶1
+K
+java:S1068")Remove this unused "money" private field.(íœªüıÿÿÿÿ8ı‚ãö¶1
+L
+java:S1068"*Remove this unused "hasCar" private field.(ÿ ¿Ÿşÿÿÿÿ8ı‚ãö¶1
+H
+java:S1068"+Remove this unused "hasHome" private field.(ØÁï…8ı‚ãö¶1

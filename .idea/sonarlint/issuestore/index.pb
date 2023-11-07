@@ -21,3 +21,15 @@ S
 #java-study/src/thread/obj/Task.java,b/7/b7cead2e65a1a91de368b43dfdd5d995ef780e62
 V
 &java-study/src/thread/obj/Account.java,4/4/449504c3d04815cc2ea1a28466902b1826f9c92a
+X
+(java-study/src/builder/BuilderStudy.java,0/2/0270b46d5d0e1463cc83ef83cb15c8a14d3e2fd4
+R
+"java-study/src/builder/Member.java,5/a/5a221c37803c0a8399ba963b112d46db849d8a46
+^
+.java-study/src/designpattern/adapter/Bird.java,a/3/a31cccf28343dc316f409c7ed4e1052935b69541
+g
+7java-study/src/designpattern/adapter/AmazingFlying.java,b/3/b3aac995a0c79b6762a911d0ed117ec9807e0885
+e
+5java-study/src/designpattern/adapter/AmazingBird.java,5/1/513d7910b9f8c4e4b85555c46c15ec5effb1b6e8
+^
+.java-study/src/designpattern/adapter/Main.java,f/2/f28e75b497a825d29acbd74aa3d3d66a59740f96
