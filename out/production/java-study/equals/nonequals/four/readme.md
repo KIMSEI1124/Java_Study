@@ -1,1 +1,0 @@
-# 클래스가 `private` 이거나 `package-private`이고 `equals` 메서드가 호출할 일이 없다.
